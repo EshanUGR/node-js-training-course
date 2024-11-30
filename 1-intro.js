@@ -1,0 +1,1 @@
+const amount = 12;
